@@ -1,8 +1,21 @@
 h1{
+    color: green;
     font-family: Arial, Helvetica, sans-serif;
-    font-color: green;
-    align: center;
+    text-align: center;
 }
 .box{
-    border solid yellow;
+    border: 10px solid yellowgreen;
+    border-radius: 15px;
+    margin: 10px 20px;
+    height: 100px;
+    width: 550px;
+    padding: 5px;
+    text-align:justify;
+    display: inline-block;
+    font-family:Arial, Helvetica, sans-serif;
+    color:red;
+}
+img{
+    width: 300px;
+    height: 150px;
 }
